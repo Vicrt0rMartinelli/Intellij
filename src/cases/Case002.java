@@ -1,4 +1,5 @@
-import com.sun.source.tree.WhileLoopTree;
+package cases;
+
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Case002 {

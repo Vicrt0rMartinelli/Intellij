@@ -1,3 +1,5 @@
+package cases;
+
 public class Case001 {
 
     static void main(String[] args) {

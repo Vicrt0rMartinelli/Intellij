@@ -31,8 +31,9 @@ public class Case003 {
                 System.out.println("O candidato "+candidato+" NÃO foi selecionado ");
             }
             candidatoAtual++;
-        }imprimirEscolhidos(escolhidos);
+        }imprimirEscolhidos(escolhidos);//manda os canidatos selecionados para imporimir
     }
+
     //Imprimi os candidados escolhidos
     static void imprimirEscolhidos(String[] escolhidos){
         System.out.println("\n\nLista de candidatos escolhidos");
